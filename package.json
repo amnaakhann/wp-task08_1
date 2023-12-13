@@ -1,0 +1,19 @@
+{
+    "name": "untitled-folder-6",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "espress": "^0.0.0",
+      "express": "^4.18.2",
+      "fs": "^0.0.1-security",
+      "nodemon": "^3.0.2"
+    },
+    "description": ""
+  }
+  
